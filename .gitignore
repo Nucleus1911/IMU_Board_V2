@@ -1,0 +1,6 @@
+Debug/
+.settings/
+.claude/
+*.png
+*.pdf
+*.launch
